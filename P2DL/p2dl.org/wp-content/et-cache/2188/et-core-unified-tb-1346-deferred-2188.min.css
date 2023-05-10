@@ -1,0 +1,42 @@
+.et_pb_section_1_tb_footer {
+    min-height: 59.6px
+}
+
+.et_pb_section_1_tb_footer.et_pb_section {
+    padding-top: 2px;
+    padding-bottom: 0px;
+    background-color: #FFFF00 !important
+}
+
+.et_pb_row_1_tb_footer.et_pb_row {
+    padding-top: 5px !important;
+    padding-bottom: 0px !important;
+    padding-top: 5px;
+    padding-bottom: 0px
+}
+
+.et_pb_text_6_tb_footer.et_pb_text {
+    color: #474747 !important
+}
+
+.et_pb_text_6_tb_footer {
+    font-size: 13px;
+    background-color: RGBA(255, 255, 255, 0)
+}
+
+.et_pb_social_media_follow .et_pb_social_media_follow_network_0_tb_footer.et_pb_social_icon .icon:before,
+.et_pb_social_media_follow .et_pb_social_media_follow_network_1_tb_footer.et_pb_social_icon .icon:before,
+.et_pb_social_media_follow .et_pb_social_media_follow_network_2_tb_footer.et_pb_social_icon .icon:before,
+.et_pb_social_media_follow .et_pb_social_media_follow_network_3_tb_footer.et_pb_social_icon .icon:before,
+.et_pb_social_media_follow .et_pb_social_media_follow_network_4_tb_footer.et_pb_social_icon .icon:before,
+.et_pb_social_media_follow .et_pb_social_media_follow_network_5_tb_footer.et_pb_social_icon .icon:before {
+    color: #474747
+}
+
+.et_pb_social_media_follow_network_0_tb_footer a.icon,
+.et_pb_social_media_follow_network_1_tb_footer a.icon,
+.et_pb_social_media_follow_network_2_tb_footer a.icon,
+.et_pb_social_media_follow_network_3_tb_footer a.icon,
+.et_pb_social_media_follow_network_4_tb_footer a.icon {
+    background-color: RGBA(255, 255, 255, 0) !important
+}

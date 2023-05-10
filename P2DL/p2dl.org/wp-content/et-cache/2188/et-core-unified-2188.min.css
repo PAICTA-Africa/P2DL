@@ -1,0 +1,23 @@
+.et-social-linkedin a.icon:before {
+    content: '\e09d'
+}
+
+.et-social-youtube a.icon:before {
+    content: '\e0a3'
+}
+
+menu-item a:hover {
+    color: #FFFF00
+}
+
+nav a:hover {
+    color: #ff0000
+}
+
+footer a:link {
+    color: #FFF
+}
+
+footer a:hover {
+    color: #FFFF00
+}
